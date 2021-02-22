@@ -1,0 +1,3300 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDc1",
+            "name": "WC-Aktiv Gel Arctic 750ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "DE_BER_WILM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDc2",
+            "name": "WC-Aktiv Gel Fresh Green 750ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 21,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_BER_WILM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzg2",
+            "name": "3 Wetter taft Pump-Fixierung Haarlack Ultra ",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "DE_BER_WILM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzg3",
+            "name": "3 Wetter taft Pump-Fixierung Haarspray Normales Haar",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_BER_WILM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTI4",
+            "name": "Absolut Vodka 40% 0,7L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTI3",
+            "name": "Absolut Vodka 40% 3L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA4",
+            "name": "Agrarfrost Crunchy Riffeled Frites 450g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 11,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 13,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 14,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA5",
+            "name": "Agrarfrost Kartoffelpuffer 600g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDEx",
+            "name": "Agrarfrost Knusperfrites 750g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDEw",
+            "name": "Agrarfrost Knusper Wedges 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 11,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDEy",
+            "name": "Agrarfrost  Snack Rösti 450g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzA3",
+            "name": "Airwaves Menthol & Eucalyptus 3x10 40g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTk2",
+            "name": "Alpro Bio Soyadrink 1L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 15,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjAw",
+            "name": "Alpro Hafer Barista Drink  1L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 13,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTk5",
+            "name": "Alpro Haferdrink Ungesüßt 1L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 16,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTk3",
+            "name": "Alpro Mandel Drink 1L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 15,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTk4",
+            "name": "Alpro Mandeldrink Ungesüßt Ungeröstet 1L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 14,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTQz",
+            "name": "Alpro Pflanzliches 360 Caramel Macchiato 450ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTQ0",
+            "name": "Alpro Pflanzliches 360 Mango-Passionsfrucht 450ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTQy",
+            "name": "Alpro Pflanzliches Haselnuss&Schoko Eis 500ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTQx",
+            "name": "Alpro Pflanzliches Soja&Karamel Eis 500ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTQw",
+            "name": "Alpro Pflanzliches Soja+Vanilie Eis 500ML",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjMz",
+            "name": "Alpro Skyr Style Mango 400g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjMx",
+            "name": "Alpro Skyr Style Natur 400g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjMy",
+            "name": "Alpro Skyr Style Vanille 400g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjkz",
+            "name": "Alpro Soja Joghurt Heidelbeere 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjk1",
+            "name": "Alpro Soja Joghurt Natur 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjk0",
+            "name": "Alpro Soja Joghurt Vanille 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzUw",
+            "name": "Always Maxi Night 10er",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 15,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzUx",
+            "name": "Always Maxi Normal mit Flügeln",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 15,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzUz",
+            "name": "Always Sensitive Protect Normal 76er ",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzUy",
+            "name": "Always Sensitive Slim Fresh 100er",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTM1",
+            "name": "Ananas Sweet Kl.I (Costa Rica) 1 Stk.",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzI0",
+            "name": "Andechser Bio Bergblumenkäse in Scheiben 50% 125g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzM1",
+            "name": "Andechser Bio Camembert 100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzUz",
+            "name": "Andechser Bio Frischkäse Kräuter 65% 175g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzUy",
+            "name": "Andechser Bio Frischkäse Natur 65% 175g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzIz",
+            "name": "Andechser Bio Gouda Scheiben 48%150g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjM5",
+            "name": "Andechser Bio Joghurt Himbeere 3,7% 100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjQy",
+            "name": "Andechser Bio Joghurt Himbeere 3,7% 4x100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjQw",
+            "name": "Andechser Bio Joghurt Mango 3,7% 100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjQx",
+            "name": "Andechser Bio Joghurt Mango 4x100G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjM3",
+            "name": "Andechser Bio Joghurt Mild 3,8% 100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjM4",
+            "name": "Andechser Bio Joghurt Vanille 3,7% 100g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjgw",
+            "name": "Andechser Bio Kefir 1,5% 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzUx",
+            "name": "Andechser Bio Körniger Frischkäse 200g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzI1",
+            "name": "Andechser Bioländer Scheiben 45% 150g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjM2",
+            "name": "Andechser Bio Lassi Mango 250g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjUy",
+            "name": "Andechser Bio Magerquark 250g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 3,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjUz",
+            "name": "Andechser Bio Speisequark 20% 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjk2",
+            "name": "Aoste Edelsalami 225g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjk3",
+            "name": "Aoste Rustikado Hähnchen 70g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjk4",
+            "name": "Aoste Rustikado Klassik 70g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzgy",
+            "name": "Aperol Aperitivo 11% 0,7L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTIz",
+            "name": "Apfel Gala",
+            "variants": [
+              {
+                "stocks": []
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTM3",
+            "name": "Apfel Golden Delicious Kl.I (Italien) 1 Stk.",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 63,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTM2",
+            "name": "Apfel Granny Smith Apfel Kl.I (Italien) 1 Stk.",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 52,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 41,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTQx",
+            "name": "Aquasale Meersalz 250g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzk2",
+            "name": "Arizona Cranberry 0,68L ",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzk3",
+            "name": "Arizona Half+Half 0,68L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzk1",
+            "name": "Arizona Watermelon 0,68L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA5",
+            "name": "Arla Butter Kaergarden Gesalzen 250g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 17,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjEw",
+            "name": "Arla Kaergarden Ungesalzen 250g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODE3",
+            "name": "Arla Skyr Erdbeer 450G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODE1",
+            "name": "Arla Skyr Natur 450G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 1,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODE2",
+            "name": "Arla Skyr Vanille 450G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTAw",
+            "name": "Astra Urtyp Pils 4,9% 0,33L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTI3",
+            "name": "Augustiner Lagerbier Hell 0,5L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 34,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTky",
+            "name": "Aurora Dinkelmehl Type 1050 1kg",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTkz",
+            "name": "Aurora Dinkel Vollkornmehl 1kg",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTk0",
+            "name": "Aurora Pizzamehl 1kg",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTk1",
+            "name": "Aurora Weizenmehl 1kg",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTk2",
+            "name": "Aurora Weizen-Mehl Type 550 1kg",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 9,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODgx",
+            "name": "Avocado Kl.II (Kolumbien) 1 Stk.",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 11,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzA5",
+            "name": "Axe Black Deodorant & Bodyspray Aluminiumfrei 150ml",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODcy",
+            "name": "Baby Spinat 100g (Italien)",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTI2",
+            "name": "Bacardi Carta Bl 37,5% 0,7L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTE5",
+            "name": "Bacardi Carta Oro 37,5% 0,7L",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 6,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTIy",
+            "name": "Bäckertoast 1 Stk.",
+            "variants": [
+              {
+                "stocks": []
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODQ1",
+            "name": "1 Stk. - Wimmer Bäckertoast ",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM3",
+            "name": "Bad Reichenhaller Alpensalz 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 23,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM4",
+            "name": "Bad Reichenhaller Alpensalz Jodsalz 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM5",
+            "name": "Bad Reichenhaller Jodsalz Fluorid+Folsäure 500g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 23,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTQw",
+            "name": "Bad Reichenhaller Kräuter-Salz 90g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 7,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 8,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ4",
+            "name": "Bahlsen Leibniz Butterkeks 200g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 24,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ0",
+            "name": "Bahlsen Leibniz Butterkeks 30%weniger Zucker 150g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzA0",
+            "name": "Bahlsen Leibniz Choco Vollmilch 125g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ2",
+            "name": "Bahlsen Leibniz Haferkeks 230g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ1",
+            "name": "Bahlsen Leibniz Mini-Schoko-Keks 125g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 2,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 10,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ3",
+            "name": "Bahlsen Leibniz Vollkorn Butterkeks 200g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjQ5",
+            "name": "Bahlsen Leibniz Zoo 125g ",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODYx",
+            "name": "Bananen 1 Stk.",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 5,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 22,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 4,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODA5",
+            "name": "Barebells Protein Bar Brownie 35G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 15,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODEx",
+            "name": "Barebells Protein Bar Cashew Caramel 55G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODEy",
+            "name": "Barebells Protein Bar Cookies Cream 55G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODA3",
+            "name": "Barebells Protein Bar Crunchy Fudge 55G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 0,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODEw",
+            "name": "Barebells Protein Bar Hazelnut Nougat 55G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 11,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 12,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODA4",
+            "name": "Barebells Protein Bar Toffee Core 35G",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_MUC_MAXV"
+                    }
+                  },
+                  {
+                    "quantity": 18,
+                    "warehouse": {
+                      "name": "DE_NRM_MAXF"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjgz",
+            "name": "Bärenmarke Die Ergiebige 340g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjgy",
+            "name": "Bärenmarke Die Leichte  340g",
+            "variants": [
+              {
+                "stocks": [
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "Hamburg Oellkersallee"
+                    }
+                  },
+                  {
+                    "quantity": 20,
+                    "warehouse": {
+                      "name": "München Leopoldstraße"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
