@@ -9,5 +9,5 @@ converter.json2csv(dataInput, (err, csv) => {
         throw err;
     }
     console.log(csv);
-    fs.writeFileSync('dataOutput.csv', csv);
+    fs.writeFileSync('result.csv', csv);
 });
